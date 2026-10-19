@@ -430,7 +430,7 @@ Program meminta dua nilai melalui `prompt()`, mengonversinya menjadi number, kem
 
 ![Hasil Eksperimen 1](images/hasil-browser%2010.3.png)
 
-### Eksperimen 7 — Tabel Perkalian Angka 7
+### Eksperimen 2 — Tabel Perkalian Angka 7
 
 **Pembahasan:** Perulangan `for` menjalankan perintah berulang kali. Di sini, perulangan dimulai dari 1 hingga 10 untuk membuat tabel perkalian angka 7.
 
@@ -446,7 +446,7 @@ Perulangan `for` digunakan untuk menampilkan tabel perkalian 7 dari 1 sampai 10.
 
 ![Hasil Eksperimen 2](images/hasil-browser%2011.png)
 
-### Eksperimen 8 — Function cekGenap
+### Eksperimen 3 — Function cekGenap
 
 **Pembahasan:** Function `cekGenap()` memeriksa sisa pembagian angka dengan dua. Hasilnya `true` untuk bilangan genap dan `false` untuk bilangan ganjil.
 
@@ -462,7 +462,7 @@ Function `cekGenap(angka)` mengembalikan `true` jika angka habis dibagi dua dan 
 
 ![Hasil Eksperimen 3](images/hasil-browser%2012.png)
 
-### Eksperimen 9 — Validasi Form
+### Eksperimen 4 — Validasi Form
 
 **Pembahasan:** Form ini berdiri sendiri dari kalkulator nilai. Program memeriksa apakah nama, email, dan kelas telah diisi sebelum menampilkan data.
 
@@ -478,7 +478,7 @@ Eksperimen ini menggunakan form terpisah untuk memeriksa apakah nama, email, dan
 
 ![Hasil Eksperimen 4](images/hasil-browser%2013.png)
 
-### Eksperimen 10 — Menambah Pilihan Menu dan Harga
+### Eksperimen 5 — Menambah Pilihan Menu dan Harga
 
 **Pembahasan:** Dua pilihan menu tambahan dilengkapi harga. Ketika menu dipilih, program memasukkan harganya ke dalam perhitungan total.
 
@@ -492,7 +492,7 @@ Latihan daftar menu dikembangkan dengan menambahkan minimal dua pilihan menu bes
 
 ![Hasil Eksperimen 5](images/hasil-browser%2014.png)
 
-### Eksperimen 11 — Menyembunyikan dan Menampilkan Elemen HTML
+### Eksperimen 6 — Menyembunyikan dan Menampilkan Elemen HTML
 
 **Pembahasan:** Tombol mengubah tampilan sebuah elemen. Saat diklik, elemen disembunyikan jika sedang terlihat, atau ditampilkan kembali jika sedang tersembunyi.
 
